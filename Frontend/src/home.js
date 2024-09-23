@@ -220,11 +220,10 @@ export const ImageUpload = () => {
     <React.Fragment>
       <AppBar position="static" className={classes.appbar}>
         <Toolbar>
-        <Avatar src={cblogo}></Avatar>
         <div className={classes.grow} />
 
           <Typography className={classes.title} variant="h6" noWrap>
-            CodeBasics: Potato Disease Classification
+            Potato Disease Classification
           </Typography>
          
         </Toolbar>
